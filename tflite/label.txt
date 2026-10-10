@@ -1,0 +1,3 @@
+adenocarcinoma
+benign
+squamous_cell_carcinoma
